@@ -7,9 +7,11 @@ Please respect all usage restrictions for any of the data listed here.
 [cla.] 💨 Disease Classification  
 [age.] 💨 Biological Age Estimating  
 [rec.] 💨 Reconstruction  
-[pred.] 💨 Age/Disease Predition
+[pred.] 💨 Age/Disease Predition  
+[syn.] 💨  Image Synthesis/Generation (usually for data augmentation)  
+[trac.] 💨  Tracking
 ## Retina/OCT
-* Kaggle contest dataset for Diabetic retinopathy detection [👉](https://www.kaggle.com/c/diabetic-retinopathy-detection)[det.]  
+* Kaggle contest dataset for Diabetic retinopathy detection [👉](https://www.kaggle.com/c/diabetic-retinopathy-detection)[det.][syn.]  
 * DRIVE: Digital Retinal Images for Vessel Extraction [👉](https://drive.grand-challenge.org/)[seg.]  
 * MICCAI 2020 REFUGE challenge dataset: Glaucoma detection and optic disc/cup segmentation on a standard dataset of retinal fundus images. [👉](https://refuge.grand-challenge.org/)[seg.][det.]  
 * STARE
@@ -24,14 +26,15 @@ Please respect all usage restrictions for any of the data listed here.
 * [CT/Pathology] the National Lung Screening Trial (NLST):include data on participant characteristics, screening exam results, diagnostic procedures, lung cancer, and mortality.  [👉](https://cdas.cancer.gov/nlst/)
 
 ## Pathology/Microscopy/Gene
-> MICCAI Challenge on Circuit Reconstruction from Electron Microscopy Images [👉](https://cremi.org/)[reg.][seg.][det.][rec.]
+> MICCAI Challenge on Circuit Reconstruction from Electron Microscopy Images [👉](https://cremi.org/)[reg.][seg.][det.][rec.]  
 > The Cancer Genome Atlas (TCGA), a landmark cancer genomics program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. [👉](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)[pred.]
 
 ## Endoscopy
+> Cholec80 dataset：contains 80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps. [👉](http://camma.u-strasbg.fr/datasets) [Paper](https://arxiv.org/pdf/1602.03012.pdf) [det.][trac.]
 
 
 ## Other resources
-* Github: Harvard Medical Data for Machine Learning [👉](https://github.com/beamandrew/medical-data)
+* [Github] Harvard Medical Data for Machine Learning [👉](https://github.com/beamandrew/medical-data)
 * Academic torrents [👉](https://academictorrents.com/)
-* Github: medical-imaging-datasets [👉](https://github.com/sfikas/medical-imaging-datasets)
+* [Github] medical-imaging-datasets [👉](https://github.com/sfikas/medical-imaging-datasets)
 *
