@@ -32,6 +32,8 @@ Please respect all usage restrictions for any of the data listed here.
 ## Endoscopy
 > Cholec80 dataset：contains 80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps. [👉](http://camma.u-strasbg.fr/datasets) [Paper](https://arxiv.org/pdf/1602.03012.pdf) [det.][trac.]
 
+## Software
+* 3D Slicers: free open source software for image analysis and scientific visualization, providing image registration, processing of DTI (diffusion tractography), an interface to external devices for image guidance support, and GPU-enabled volume rendering, among other capabilities. [👉](https://download.slicer.org/)
 
 ## Other resources
 * [Github] Harvard Medical Data for Machine Learning [👉](https://github.com/beamandrew/medical-data)
