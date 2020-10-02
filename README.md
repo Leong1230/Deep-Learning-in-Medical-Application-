@@ -44,3 +44,8 @@ Please respect all usage restrictions for any of the data listed here.
 * [Github] medical-imaging-datasets [👉](https://github.com/sfikas/medical-imaging-datasets)
 * MedPix：aiming to teach medical konwledge to people major in medicine. Including cases for many disease, but not suitable for ML, since the database is small and often show only one case for each disease. [👉](https://medpix.nlm.nih.gov/home)
 * 
+
+## Software
+* Amira 3D：medical data segmentation
+* Mimics 16.0：doctors can use to label the GT for segmentation
+* ukbb_cardiac:a toolbox used for processing and analysing cardiovascular magnetic resonance (CMR) images, including preprocessing, FCN training and testing, evaluation, ect.
