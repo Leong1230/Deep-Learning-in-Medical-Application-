@@ -1,5 +1,5 @@
 # Medical Image Dataset
-Please respect all usage restrictions for any of the data listed here.
+Please respect all usage restrictions for any of the data and resources listed here.
 -------------------------------------------------------------------------
 [det.] 💨 Detection (Localization)  
 [seg.] 💨 Segmentation  
@@ -49,3 +49,4 @@ Please respect all usage restrictions for any of the data listed here.
 * Amira 3D：medical data segmentation
 * Mimics 16.0：doctors can use to label the GT for segmentation
 * ukbb_cardiac:a toolbox used for processing and analysing cardiovascular magnetic resonance (CMR) images, including preprocessing, FCN training and testing, evaluation, ect.
+* 3D Slicer: registration and so on.
