@@ -64,6 +64,13 @@ Please respect all usage restrictions for any of the data and resources listed h
 * [Github] medical-imaging-datasets [👉](https://github.com/sfikas/medical-imaging-datasets)
 * MedPix：aiming to teach medical konwledge to people major in medicine. Including cases for many disease, but not suitable for ML, since the database is small and often show only one case for each disease. [👉](https://medpix.nlm.nih.gov/home)
 * UK Biobank:released imaging data on 5,000 scanned participants from its imaging pilot study. [👉](https://www.ukbiobank.ac.uk/)
+* MedMNIST: a collection of 10 pre-processed medical open datasets. [👉](https://github.com/MedMNIST/MedMNIST)
+
+## Other dataset include non-medical data
+* Awesome Public Dataset [👉](https://github.com/awesomedata/awesome-public-datasets)
+* Data is Plural [👉](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+* Kaggle Challenge
+* Google Dataset Search
 
 ## Software
 * Amira 3D：medical data segmentation
